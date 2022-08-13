@@ -1,0 +1,21 @@
+SMAP
+EliminarAutor_jsp.java
+JSP
+*S JSP
+*F
++ 0 EliminarAutor.jsp
+MantenimientoAutores/EliminarAutor.jsp
+*L
+6,9:60
+14:68,9
+15,8:77
+22:117,6
+22:87
+23:136,17
+24:153
+24:185,5
+24:156,2
+25:90
+26:91,5
+28,4:96
+*E
